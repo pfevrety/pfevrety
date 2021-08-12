@@ -1,5 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm pfevrety</h1>
-I'm **Eliott** a high school student from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> **France**. I like to do **computer science** during my free time. 
+
+<h4>I'm Eliott a high school student from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> France. I like to do computer science during my free time. </h4>
  
 - 🔭 I’m currently working on the [palamazon](https://github.com/PalamazonOff)  
   
